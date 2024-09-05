@@ -24,12 +24,10 @@ Here are some ideas to get you started:
 
 * 🔭 I’m currently working at <del>Home</del>
 
-* 🌱 I’m currently using `GoLang` `Python` <del>`java`</del> `React` `Vue` `Flutter`
+* 🌱 I’m currently using `GoLang` `Python` `React` `Vue` `Flutter` <del>`java`</del> <del>`R`</del>
 
 * ✈️ Open to Remote Job Opportunities 🍻
 
 * 👀 Feel free to contact me via [Telegram](https://t.me/sukalicyh)
 
 ![Kalicyh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalicyh)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalicyh)

@@ -57,3 +57,4 @@ Here are some ideas to get you started:
 
 #### PR Projects 🛠️
 - [one-hub](https://github.com/kalicyh/one-hub) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
+- [xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。

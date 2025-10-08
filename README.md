@@ -1,39 +1,43 @@
 <!--
 **kalicyh/kalicyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
+# Hi, I'm Kalicyh! ✈️
 
-### Kalicyh ✈️ ![](https://views.whatilearened.today/views/github/kalicyh/kalicyh.svg)
+<p align="left">
+  <img src="https://views.whatilearened.today/views/github/kalicyh/kalicyh.svg" alt="profile views"/>
+  <a href="https://github.com/kalicyh?tab=followers"><img src="https://img.shields.io/github/followers/kalicyh?label=Followers" alt="GitHub Followers"></a>
+  <img src="https://img.shields.io/badge/languages-Go%2C%20Python%2C%20JS%2C%20Dart-informational" alt="Languages"/>
+  <a href="https://t.me/sukalicyh"><img src="https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram"></a>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalicyh/kalicyh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kalicyh/kalicyh/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kalicyh/kalicyh/output/github-snake.svg" />
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalicyh/kalicyh/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kalicyh/kalicyh/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/kalicyh/kalicyh/output/github-snake.svg" />
+  </picture>
+</div>
 
-* 🔭 I’m currently working at <del>Home</del>
-
-* 🌱 I’m currently using `GoLang` `Python` `React` `Vue` `Flutter` <del>`java`</del> <del>`R`</del>
-
-* ✈️ Open to Remote Job Opportunities 🍻
-
-* 👀 Feel free to contact me via [Telegram](https://t.me/sukalicyh)
+- 🔭 I’m currently working at <del>Home</del>
+- 🌱 I’m currently using: **GoLang**, **Python**, **React**, **Vue**, **Flutter** <del>Java</del> <del>R</del>
+- ✈️ Open to Remote Job Opportunities 🍻
+- 👀 Feel free to contact me via [Telegram](https://t.me/sukalicyh)
+- 🚀 最近关注领域：AIGC、IoT、智能硬件、前端/全栈、AI工具链
 
 ![Kalicyh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalicyh)
 
+---
 
 ### My Projects 🚀
+
+#### New & Notable
+- [NetMount](https://github.com/kalicyh/NetMount) - 提供给有`KernelSU`的安卓设备的网络存储自动挂载与管理工具，支持多种协议，提升数据访问效率。
+- [ImagingEdge-Next](https://github.com/kalicyh/ImagingEdge-Next) - Sony ImagingEdge 相关工具的增强与二次开发，带来更现代化的影像工作流体验。
+- [xiaozhi-server-go](https://github.com/kalicyh/xiaozhi-server-go) - 小智go版本的服务器，简化设备与服务器的交互。
+- [xiaozhi-client-go](https://github.com/kalicyh/xiaozhi-client-go) - 小智go版本的客户端（尚未完善），简化设备与服务器的交互。
+- [opuslib-next](https://github.com/kalicyh/opuslib-next) - Opus 音频编解码库的 Go 语言实现及扩展，适用于实时音频项目。
+
 #### Various Projects
 - [knowledge_client](https://github.com/kalicyh/knowledge_client) - 知识库前端-基于flutter
 - [knowledge_server](https://github.com/kalicyh/knowledge_server) - 知识库后端-基于fastapi+vue
@@ -44,6 +48,7 @@ Here are some ideas to get you started:
 
 #### Tools
 - [u8g2_cn_tools](https://github.com/kalicyh/u8g2_cn_tools) - 在 u8g2 库中支持显示中文的工具。
+- [doubaoasr](https://github.com/kalicyh/doubaoasr) - 豆包 ASR测试工具，轻量级自动语音识别服务，适合多种场景的语音转文字需求。
 
 #### Flipper Zero
 - [Momentum-Firmware](https://github.com/kalicyh/Momentum-Firmware) - 🐬功能丰富、稳定且可定制的中文Flipper固件
@@ -58,3 +63,7 @@ Here are some ideas to get you started:
 #### PR Projects 🛠️
 - [one-hub](https://github.com/kalicyh/one-hub) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
 - [xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。
+
+---
+
+> “代码让世界更美好，欢迎交流与合作~”

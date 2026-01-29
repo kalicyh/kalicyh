@@ -47,6 +47,11 @@ jobs:
           # 需要一个 GitHub 令牌才能从 GitHub API 获取贡献日历。
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Fix dist permissions
+        run: |
+          sudo chown -R "$(id -u)":"$(id -g)" dist
+          sudo chmod -R u+rwX,go+rX dist
+
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:

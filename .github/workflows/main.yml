@@ -21,6 +21,8 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      - uses: actions/checkout@v4
+
       # 从 GitHub 用户 (<github_user_name>) 的贡献图生成贪吃蛇游戏，输出 SVG 动画到 <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3.2.0
@@ -45,13 +47,20 @@ jobs:
           # 需要一个 GitHub 令牌才能从 GitHub API 获取贡献日历。
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true
+          path: dist/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       # 将<build_dir>的内容推送到一个分支
       # 内容将在https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file>上可用，或作为GitHub页面提供
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: Push artifacts to the output branch
         uses: crazy-max/ghaction-github-pages@v4.0.0
         with:
           target_branch: output
           build_dir: dist
-          keep_files: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -25,7 +25,7 @@
 - 👀 Feel free to contact me via [Telegram](https://t.me/sukalicyh)
 - 🚀 最近关注领域：AIGC、IoT、智能硬件、前端/全栈、AI工具链
 
-![Kalicyh's GitHub stats](https://github-readme-stats-rust-rho-13.vercel.app/api?username=kalicyh)
+![Kalicyh's GitHub stats](./profile/stats.svg)
 
 ---
 
